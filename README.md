@@ -4,3 +4,4 @@ Generates <n> password(s) with length requested by user<len>.
 Will fail if lemgth less than 8 or more than 128.
   
   
+![](images/photo1.png)
